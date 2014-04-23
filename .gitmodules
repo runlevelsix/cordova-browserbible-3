@@ -1,0 +1,3 @@
+[submodule "browserbible"]
+	path = browserbible
+	url = https://github.com/digitalbiblesociety/browserbible-3.git
